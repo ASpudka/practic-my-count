@@ -1,0 +1,23 @@
+.wrapper{
+  min-width: 100px;
+  width: 50%;
+  max-width: 300px;
+
+  display: flex;
+  flex-direction: column;
+
+  border: 2px solid rgb(21, 114, 236);
+  border-radius: 5%;
+  background-color: rgb(103, 224, 224);
+  text-align: center;
+}
+.heading {
+ 
+
+}
+.button{
+  padding: 15px;
+  border: 2px solid rgb(21, 114, 236);
+  
+
+}
